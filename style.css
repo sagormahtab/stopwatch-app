@@ -1,6 +1,6 @@
 /*Give body a background Image*/
 body{
-    background: url(images/northern_lights.jpg) center center fixed;
+    background: url(images/northern_lights.jpg) no-repeat center center fixed;
     background-size: cover;
     color: #fff;
 }
